@@ -1,2 +1,2 @@
 # NewIpl
-output:-Published Successfully!. Check at https://bhagavathiIPLDB.ccbp.tech
+output:-Published Successfully!. Check at https://bandaruiplboard.ccbp.tech/
